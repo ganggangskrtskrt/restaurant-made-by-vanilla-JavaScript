@@ -49,7 +49,7 @@ maindivs[0].appendChild(document.createTextNode("Contact"));
 // Thor
 h3[0].appendChild(document.createTextNode("Thor"));
 p[0].appendChild(document.createTextNode("CEO\n036 966 6666\nsongocut02@gmail.com"));
-img[0].src = "https://static.wikia.nocookie.net/marvelcinematicuniverse/images/2/22/Thor_in_LoveAndThunder_Poster.jpg/revision/latest?cb=20220615195810";
+img[0].src = "http://pm1.narvii.com/6834/61acfc4a08c8834edd1f9613cae901f0ca3772d3v2_00.jpg";
 // Songoku
 h3[1].appendChild(document.createTextNode("Songoku"));
 p[1].appendChild(document.createTextNode("Chef\n037 202 8668\nluyenmt@gmail.com"));
